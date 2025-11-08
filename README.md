@@ -1,12 +1,12 @@
-<h1 align="center">Hello, I'm Mahmoud Mohamed 👋</h1>
+<h1 align="center">Hello, I'm Mahmoud Akl 👋</h1>
 <h3 align="center">Data Analyst | Business & Marketing Analytics | Machine Learning Learner</h3>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudMohamed&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MahmoudMohamed)
-[![GitHub Followers](https://img.shields.io/github/followers/MahmoudMohamed?style=social)](https://github.com/MahmoudMohamed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-mohamed)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoud.mohamed@email.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudMohamed&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mahmoud-mohamed107)
+[![GitHub Followers](https://img.shields.io/github/followers/MahmoudMohamed?style=social)](https://github.com/mahmoud-mohamed107)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--akl/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoud.m.akl90@gmail.com)
 
 </div>
 
