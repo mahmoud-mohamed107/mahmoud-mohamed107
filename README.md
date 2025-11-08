@@ -3,8 +3,8 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MahmoudMohamed&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mahmoud-mohamed107)
-[![GitHub Followers](https://img.shields.io/github/followers/MahmoudMohamed?style=social)](https://github.com/mahmoud-mohamed107)
+[![Profile Views](https://komarev.com/ghpvc/?username=mahmoud-mohamed107&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mahmoud-mohamed107)
+[![GitHub Followers](https://img.shields.io/github/followers/mahmoud-mohamed107?style=social)](https://github.com/mahmoud-mohamed107)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud--akl/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:mahmoud.m.akl90@gmail.com)
 
@@ -26,16 +26,16 @@
 
 <div align="left">
   
-Hi there 👋 I'm **Mahmoud Mohamed**, a **Data Analyst** passionate about uncovering business insights through data.  
-I love working where **business, marketing, and data** intersect — helping teams understand what drives customers, sales, and performance.  
+Hi there 👋 I'm **Mahmoud Akl**, a **Data Analyst** passionate about turning data into decisions that move businesses forward.  
+I love working where **business, marketing, and analytics** intersect — uncovering insights that explain *why things happen*, not just *what happened*.  
 
-I work with **SQL, Power BI, Excel, and Python** to turn raw data into clear insights and actionable strategies.  
-Recently, I’ve been expanding my skills into **Machine Learning** to explore predictive analytics and smarter decision-making.  
+I use **SQL, Power BI, Excel, and Python** to translate complex data into clear dashboards, actionable insights, and predictive models.  
+Currently, I’m expanding into **Machine Learning**, exploring how data can help companies anticipate trends and customer needs.  
 
 - 🔭 **Currently working on:** Product Analytics & Customer Segmentation  
 - 🌱 **Currently learning:** Machine Learning & Predictive Modeling  
-- 💼 **Open to:** Data Analytics and Business Intelligence roles  
-- 📫 **Reach me at:** mahmoud.mohamed@email.com  
+- 💼 **Open to:** Data Analytics and Business Intelligence opportunities  
+- 📫 **Reach me at:** mahmoud.m.akl90@gmail.com  
 
 </div>
 
@@ -71,7 +71,7 @@ Recently, I’ve been expanding my skills into **Machine Learning** to explore p
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019–present%29.svg" height="40" alt="excel logo" />
 </div>
 
 ### Tools & Environment
@@ -87,14 +87,24 @@ Recently, I’ve been expanding my skills into **Machine Learning** to explore p
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Projects  
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMohamed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-<img src="https://streak-stats.demolab.com?user=MahmoudMohamed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudMohamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+<div align="left">
+
+🔹 [**Apple Retail Analysis**](#) — SQL-based analysis of store performance and customer behavior  
+🔹 [**Customer Churn Dashboard**](#) — Power BI dashboard to identify retention patterns  
+🔹 [**RFM Segmentation**](#) — Python-based model for marketing insights  
+🔹 [**Conversion Funnel Analysis**](#) — Turning marketing data into measurable performance metrics  
 
 </div>
 
-![Snake Animation](https://github.com/MahmoudMohamed/MahmoudMohamed/blob/output/snake-dark.svg)
+---
+
+## 💬 Quote I Believe In  
+> *“Data doesn’t drive decisions — people do. Data just makes their choices smarter.”*
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by! Feel free to connect or collaborate 🤝</i>
+</div>
